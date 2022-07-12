@@ -22,7 +22,7 @@ menu:
 
 # 联系方式
 contact:
-  github: "https://github.com/f-dong"
+  github: "https://github.com/rainlogs"
   twitter:
   weibo:
   zhihu:
@@ -32,7 +32,7 @@ contact:
 showFeatureImage: true
 
 # 首页头像图片
-avatar: /images/avatar.png
+avatar: https://s1.ax1x.com/2022/07/12/j2V2p8.png
 
 # 谷歌统计 跟踪 ID
 ga:
@@ -40,11 +40,11 @@ ga:
 # Gittalk 评论组件
 # See: https://github.com/gitalk/gitalk/
 gitalk:
-  enable: false
-  clientId:
-  clientSecret:
-  repository: # 仓库名
-  owner: # 仓库所有者
+  enable: true
+  clientId:691034a26efb56f32631
+  clientSecret:45f8b7ae31b947165691c8cf89e365ed49a0954a
+  repository: # hexo
+  owner: # rainlogs
   createIssueManually: false, # 如果当前页面没有相应的 isssue 且登录的用户属于 admin，则会自动创建 issue。如果设置为 true，则显示一个初始化页面，创建 issue 需要点击 init 按钮。
 
 # 是否使用 bootcdn
@@ -58,7 +58,7 @@ bottom_link:
     class: rss
   icp:
     url: # beian.miit.gov.cn
-    text: # 沪ICP备 09007032号-1
+    text: # XICP备 00000000号-0
     class: icp
 
 # 底部显示来源信息
