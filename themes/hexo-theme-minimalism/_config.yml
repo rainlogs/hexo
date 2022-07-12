@@ -32,7 +32,7 @@ contact:
 showFeatureImage: true
 
 # 首页头像图片
-avatar: https://s1.ax1x.com/2022/07/12/j2V2p8.png
+avatar: https://s1.ax1x.com/2022/07/12/j2nnE9.png
 
 # 谷歌统计 跟踪 ID
 ga:
@@ -44,8 +44,8 @@ gitalk:
   clientId: 691034a26efb56f32631
   clientSecret: 45f8b7ae31b947165691c8cf89e365ed49a0954a
   repository: # hexo
-  owner: # rainlogs
-  createIssueManually: true, # 如果当前页面没有相应的 isssue 且登录的用户属于 admin，则会自动创建 issue。如果设置为 true，则显示一个初始化页面，创建 issue 需要点击 init 按钮。
+  admin: # rainlogs
+  createIssueManually: false, # 如果当前页面没有相应的 isssue 且登录的用户属于 admin，则会自动创建 issue。如果设置为 true，则显示一个初始化页面，创建 issue 需要点击 init 按钮。
 
 # 是否使用 bootcdn
 use_bootcdn: false
