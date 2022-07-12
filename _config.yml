@@ -48,7 +48,7 @@ highlight:
     - example
   wrap: true
   hljs: false
-prismjs:
+prismjs: 
   enable: false
   preprocess: true
   line_number: true
