@@ -1,6 +1,17 @@
 ---
 title: 给typecho加上友情链接，无需插件
+date: 2022-07-12 09:25:00
+author: 雨後
+img: https://s1.ax1x.com/2022/06/28/jeIj00.jpg
+top: false
+hide: false
+cover: false
+toc: false
+categories: Typecho
+tags:
+  - Typecho
 ---
+
 
 忘了之前在哪里看到了，回头找到原文地址，再加上
 
