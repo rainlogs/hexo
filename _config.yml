@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
-language:
+language:zh-CN
 timezone:
 
 # URL
@@ -38,7 +38,6 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-
 highlight:
   enable: false
   line_number: true
