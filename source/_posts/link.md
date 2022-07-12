@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 给typecho加上友情链接，无需插件
 ---
 
 忘了之前在哪里看到了，回头找到原文地址，再加上
